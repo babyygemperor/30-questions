@@ -37,23 +37,23 @@ void initDatabases(){
 
     /*
     strcpy(database[0].name, "Aamin Gem");
-    database[0].phone = 919479269414;
+    database[0].phone = 919838666420;
     file.write((char *) &database[0], sizeof(database[0]));
 
     strcpy(database[1].name, "Mum of Aamin Gem");
-    database[1].phone = 919479269415;
+    database[1].phone = 919839666420;
     file.write((char *) &database[1], sizeof(database[1]));
     
     strcpy(database[2].name, "Pops of Aamin Gem");
-    database[2].phone = 919479269416;
+    database[2].phone = 919833666420;
     file.write((char *) &database[2], sizeof(database[2]));
     
     strcpy(database[3].name, "Sis of Aamin Gem");
-    database[3].phone = 919479269414;
+    database[3].phone = 919836666420;
     file.write((char *) &database[3], sizeof(database[3]));
     
     strcpy(database[4].name, "Girlfriend of Aamin Gem");
-    database[4].phone = 494272862778;
+    database[4].phone = 499118666420;
     file.write((char *) &database[4], sizeof(database[4]));
     */
     file.close();
