@@ -61,4 +61,6 @@ void truecaller(){
     if(!numberFound)
         cout << "NOT FOUND in the directory\n";
     
+    file.close();
+    
 }
