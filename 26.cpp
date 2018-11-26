@@ -74,7 +74,7 @@ void viewNames(){
         cout << "Memory underflow!";    //the queue is empty
     else
         for (int i = front; i <= rear; ++i)
-            cout << queue[i] << ' ';
+            cout << queue[i] << ", ";
     cout <<'\n';
 }
 
